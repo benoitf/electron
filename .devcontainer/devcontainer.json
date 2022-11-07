@@ -35,9 +35,5 @@
 			"onAutoForward": "silent"
 		}
 	},
-	"hostRequirements": {
-		"storage": "32gb",
-		"cpus": 8
-	},
 	"remoteUser": "builduser"
 }
